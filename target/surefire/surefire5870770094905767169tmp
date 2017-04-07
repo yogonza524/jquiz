@@ -1,0 +1,6 @@
+#surefire
+#Fri Apr 07 00:00:47 ART 2017
+maven.ext.class.path=/usr/local/netbeans-8.1/java/maven-nblib/netbeans-eventspy.jar
+user.dir=/home/gonza/Desarrollos/JQuiz
+localRepository=/home/gonza/.m2/repository
+basedir=/home/gonza/Desarrollos/JQuiz
